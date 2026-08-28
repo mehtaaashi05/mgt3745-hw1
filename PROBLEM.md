@@ -8,7 +8,7 @@
 ## 1. Candidate Problem  
 `20 pts`
 
-*During my internship this summer, I realized I did not enjoy my original role and wanted to explore opportunities elsewhere in the organization, but there was no clear process for figuring out who to talk to or how to position myself for a move. Despite many people and resources being available across the organization, navigating toward a different part of the bank required constant individual trial and error.*
+*During my internship this summer, I realized I did not enjoy Treasury Management and wanted to explore opportunities elsewhere in the organization, but there was no clear process for figuring out who to talk to or how to position myself for a move. Despite many people and resources being available across the organization, navigating toward a different part of the bank required constant individual trial and error.*
 
 ---
 
@@ -33,7 +33,7 @@
 
 **Framing B (stakeholder shift): Managers and teams have no true incentive to help an intern they might "lose" explore other parts of the bank, so there is no structural push for them to make introductions or share opportunities.**
 
-**Framing C (goal shift): Interns tend not to explore outside of their original team because expressing interest in a different team carries real reputational risk with no safe way to test the waters.  **
+**Framing C (goal shift): Interns tend not to explore outside of their original team because expressing interest in a different team carries real reputational risk with no safe way to test the waters.**
 
 ---
 
@@ -53,14 +53,14 @@
 
 **The tool I already assumed: the organization directory**
 
-**What would have to be true for it to be justified: For this tool to be justified, the problem would need to be about information gap. It would also require that once the interns had the information, they would be able to solve the problem easily.**
+**What would have to be true for it to be justified: For this tool to be justified, the problem would need to be about information gap. It would also require that once the interns had the information, they would be able to solve the problem easily. My own experience indicates this. Even once I knew who to talk to, the real barrier was the risk of how reaching out would be perceived and how I would go about indicating that I was interested in the position without seeming like I was not committed to Treasury Management.**
 
 ---
 
 ## 6. Adequacy Sketch  
 `10 pts`
 
-*Good enough would look like interns having an opportunity to explore different areas of the organization without seeming like they do not like their current role. I would know if I have reached it when I feel comfortable having conversations about wanting to explore other parts of the bank with my team without being nervous. *
+**Good enough would look like interns having an opportunity to explore different areas of the organization without seeming like they do not like their current role. I would know if I have reached it when I feel comfortable having conversations about wanting to explore other parts of the bank with my team without being nervous.**
 
 ---
 
