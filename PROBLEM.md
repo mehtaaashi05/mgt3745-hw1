@@ -8,7 +8,7 @@
 ## 1. Candidate Problem  
 `20 pts`
 
-*During my internship this summer, I realized I did not enjoy my original role and wanted to explore opportunities elsewhere in the organization, but there was no clear process for figuring out who to talk to or how to position myself for a move. Despite many people and resources technically being available, navigating toward a different part of the bank required constant individual trial and error.*
+*During my internship this summer, I realized I did not enjoy my original role and wanted to explore opportunities elsewhere in the organization, but there was no clear process for figuring out who to talk to or how to position myself for a move. Despite many people and resources being available across the organization, navigating toward a different part of the bank required constant individual trial and error.*
 
 ---
 
@@ -16,10 +16,10 @@
 `25 pts`
 
 *
-- Hard to formulate a problem statement: "Figure out who to talk to" is a very vague statement. It can be split into figuring out what roles exist across the bank, who has real influence over internal moves, and knowing how to present myself credibly for something outside my expertise.
-- No stopping rule: There is no clear point where I could say that I have mastered how to navigate this organization. I just kept having coversations with people that introduced me to more people. While it was great to make connections, it felt like I was gathering fragments of information and 10 weeks was not enough time for me to piece it all together. 
-- Solutions are good or bad: There was no "correct" way to navigate toward a new role - only choices that worked out better or worse. Expressing that I was interested in a different team to my original team could have had a negative outcome. There is no objective test to check an approach against, only judgment calls about what seemed to work.
-- May be a symptom of another problem: What looked like my personal struggle to navigate might really be a symptom of the internship program being structured around staying in your assigned track, with no real infrastructure for anyone who wants to explore.
+- Hard to formulate a problem statement: "Figuring out who to talk to" is a very vague problem. It can be split into figuring out what roles exist across the bank, who has real influence over internal moves, and knowing how to present myself credibly for something outside my expertise.
+- No stopping rule: There is no clear point where I could say that I have mastered how to navigate this organization. I just kept having conversations with people that introduced me to more people. While it was great to make connections, it felt like I was gathering fragments of information and 10 weeks was not enough time for me to piece it all together. 
+- Solutions are good or bad: There was no "correct" way to navigate toward a new role - only choices that worked out better or worse. Expressing that I was interested in a different team to my original team could have had a negative outcome. There was no objective test to check an approach against, only judgment calls about what seemed to work.
+- May be a symptom of another problem: What looked like my personal struggle to navigate might really be a symptom of the internship program being structured around staying in your assigned track, with no real infrastructure for anyone who realizes they want to explore a different path.
 *
 
 **Verdict: This problem leans wicked more than tame. A part of the problem such as finding a person's contact is tame and solvable. However, the larger task of figuring out the best way to position myself well for another position is a wicked problem. There is no correct path forward. This one required judgement, carried real risk, and does not resolve until I get a job offer. **
@@ -53,14 +53,14 @@
 
 **The tool I already assumed: the organization directory**
 
-**What would have to be true for it to be justified: For this tool to be justified, the problem would need to be about information gap. It would also require that once the interns had the information, they would be comfortable acting on it.**
+**What would have to be true for it to be justified: For this tool to be justified, the problem would need to be about information gap. It would also require that once the interns had the information, they would be able to solve the problem easily.**
 
 ---
 
 ## 6. Adequacy Sketch  
 `10 pts`
 
-*Good enough would look like interns having an opportunity to explore different areas of the organization without seeming like they do not like their current role. I would know if I have reached it when I feel comfortable reaching out to people in other areas earlier in the internship. *
+*Good enough would look like interns having an opportunity to explore different areas of the organization without seeming like they do not like their current role. I would know if I have reached it when I feel comfortable having conversations about wanting to explore other parts of the bank with my team without being nervous. *
 
 ---
 
