@@ -22,7 +22,7 @@
 - May be a symptom of another problem: What looked like my personal struggle to navigate might really be a symptom of the internship program being structured around staying in your assigned track, with no real infrastructure for anyone who realizes they want to explore a different path.
 *
 
-**Verdict: This problem leans wicked more than tame. A part of the problem such as finding a person's contact is tame and solvable. However, the larger task of figuring out the best way to position myself well for another position is a wicked problem. There is no correct path forward. This one required judgement, carried real risk, and does not resolve until I get a job offer. **
+**Verdict: This problem leans wicked more than tame. A part of the problem such as finding a person's contact is tame and solvable. However, the larger task of figuring out the best way to position myself well for another position is a wicked problem. There is no correct path forward.**
 
 ---
 
